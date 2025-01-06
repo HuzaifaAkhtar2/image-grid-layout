@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 99vh;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 400px 400px 400px;
+    gap: 10px;
+}
