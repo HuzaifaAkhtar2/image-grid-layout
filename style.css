@@ -12,6 +12,10 @@ body {
 
 .grid {
     display: grid;
-    grid-template-columns: 400px 400px 400px;
+    grid-template-columns: 20vw 20vw 20vw;
     gap: 10px;
+}
+
+img {
+    width: 20vw;
 }
